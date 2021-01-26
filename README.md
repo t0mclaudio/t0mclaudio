@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi, I'm Tom 👋
 
-<!--
-**t0mclaudio/t0mclaudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tom and I'm a software developer that specializes in full-stack web development. 
 
 Here are some ideas to get you started:
 
@@ -12,5 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my story
 - 📫 How to reach me through my [LinkeIn profile](https://www.linkedin.com/in/tomclaudio/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I think its cool to bike to work 
--->
+- ⚡ Fun fact: I think its cool to bike to work
