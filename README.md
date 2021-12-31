@@ -1,8 +1,10 @@
-### Hi, I'm Tom 👋
+# Front-end Developer  👋
+Hi, my name is Tom and I'm a front-end developer who is also comfortable working full-stack but I specialize on front-end stuff.
 
-My name is Tom and I'm a software developer that specializes in full-stack web development. 
+## Coding Experience
+I have been coding since 2009 and I have used various frameworks and libraries. Most of what I use these days is Javascript but I also have experience using Python and PHP. 
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an online marketplace for Westfiled Living Centres
 - 🌱 I’m currently learning how to design large scale web applications
