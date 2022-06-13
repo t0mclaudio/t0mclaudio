@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tom</h1>
+![image (1)](https://user-images.githubusercontent.com/11550373/173260523-17bcdd23-2118-48d7-84a9-f84746302a7f.png)
 <h3 align="center">I'm a frontend engineer and my passion is deleting code. 😉</h3>
 
 - 🔭 I’m currently working on [a promotion service for my current employer.](https://www.westfield.com.au/)
