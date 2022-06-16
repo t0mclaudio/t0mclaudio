@@ -1,3 +1,11 @@
+<div align="center">
+	<br>
+	<a href="https://github.com/t0mclaudio/t0mclaudio/blob/main/banner.svg?raw=true">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
+
 <h3 align="center">I'm a frontend engineer and my passion is deleting code. 😉</h3>
 
 - 🔭 I’m currently working on [a promotion service for my current employer.](https://www.westfield.com.au/)
