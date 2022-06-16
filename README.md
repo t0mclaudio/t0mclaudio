@@ -1,4 +1,3 @@
-![image (1)](https://user-images.githubusercontent.com/11550373/173260523-17bcdd23-2118-48d7-84a9-f84746302a7f.png)
 <h3 align="center">I'm a frontend engineer and my passion is deleting code. 😉</h3>
 
 - 🔭 I’m currently working on [a promotion service for my current employer.](https://www.westfield.com.au/)
@@ -12,6 +11,47 @@
 - 💬 Ask me about **javascript, react, node**
 
 - ⚡ Fun fact **I'm serious when I say I love deleting code.**
+
+<section>
+  <h3>Programming Languages</h3>
+  <div>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="python"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+    alt="php"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    alt="html5"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    alt="css3"
+    width="40"
+    height="40"
+  />
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
