@@ -1,21 +1,6 @@
 <div align="center">
 <img src="https://github.com/t0mclaudio/t0mclaudio/blob/main/banner.svg?raw=true" />
 </div>
-
-<h3 align="center">I'm a frontend engineer and my passion is deleting code. 😉</h3>
-
-- 🔭 I’m currently working on [a promotion service for my current employer.](https://www.westfield.com.au/)
-
-- 🌱 I’m currently learning **highly scalable systems.**
-
-- 🤝 I’m looking for help with **practical data structures and algorithms.**
-
-- 📝 I regularly write articles on [https://t0mclaudio.github.io/](https://t0mclaudio.github.io/)
-
-- 💬 Ask me about **javascript, react, node**
-
-- ⚡ Fun fact **I'm serious when I say I love deleting code.**
-
 <section>
   <h3>Programming Languages</h3>
   <div
@@ -381,4 +366,18 @@
       height="40"
     />
   </div>
+</section>
+<section>
+<h3 align="center">I'm a frontend engineer and my passion is deleting code. 😉</h3>
+- 🔭 I’m currently working on [a promotion service for my current employer.](https://www.westfield.com.au/)
+
+- 🌱 I’m currently learning **highly scalable systems.**
+
+- 🤝 I’m looking for help with **practical data structures and algorithms.**
+
+- 📝 I regularly write articles on [https://t0mclaudio.github.io/](https://t0mclaudio.github.io/)
+
+- 💬 Ask me about **javascript, react, node**
+
+- ⚡ Fun fact **I'm serious when I say I love deleting code.**
 </section>
